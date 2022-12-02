@@ -1,12 +1,7 @@
-Code World
+online education
 
-live site: (https://assignment-10-6406b.web.app)
+live site: (https://riyadh-assignment-10.web.app)
 
-server link: click here
-
-client side private repo: click here
-
-server side private repo: click here
 
 
 Technology uses of this site:
