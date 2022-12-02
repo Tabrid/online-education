@@ -1,0 +1,18 @@
+import React from 'react';
+
+const Education = () => {
+    return (
+        <div className='flex justify-center items-center h-full bg-rose-50 dark:bg-gray-800 dark:text-gray-100 py-10'>
+            <div className="card w-[450px] bg-base-100 shadow-xl image-full">
+
+                <div className="card-body">
+                    <h2 className="card-title">SSC: Palordi Model high school</h2>
+                    <h2 className="card-title">HSC: Dhaka Residential Model College</h2>
+                    <h2 className="card-title">University: B.Sc in CSE at Daffodil International University</h2>
+                </div>
+            </div>
+        </div>
+    );
+};
+
+export default Education;
